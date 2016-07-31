@@ -14,14 +14,14 @@ collections:
 color:
   saturation: 0
   brandStrength: 0.05559347453527153
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#050505'
     - '#2E2E2E'
     - '#808080'
     - '#C6C6C6'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 typography_spectrum: 0.3993368209339678
 description: 212withlove
 navigation:
