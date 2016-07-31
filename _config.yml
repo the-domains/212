@@ -1,32 +1,32 @@
-typography_spectrum: 0.3993368209339678
-color:
-  saturation: 0
-  brandStrength: 0.05559347453527153
-  lightness: 0
-  brandColors:
-    - '#FFFFFF'
-    - '#050505'
-    - '#2E2E2E'
-    - '#808080'
-    - '#C6C6C6'
-  rhythmicContrast: 0
-layout_spectrum: 0.9841076398734003
-name: '212'
-navigation:
-  - name: the blank canvas
-    id: d2a1f3d3-6b06-4573-8e93-27884c36a318
-    type: content
+title: '212'
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: '212'
+color:
+  saturation: 0
+  brandStrength: 0.05559347453527153
+  rhythmicContrast: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#050505'
+    - '#2E2E2E'
+    - '#808080'
+    - '#C6C6C6'
+  lightness: 0
+typography_spectrum: 0
 description: 212withlove
+navigation:
+  - name: the blank canvas
+    id: d2a1f3d3-6b06-4573-8e93-27884c36a318
+    type: content
+layout_spectrum: 0.9841076398734003
+name: '212'
