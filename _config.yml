@@ -1,4 +1,21 @@
-title: Hand Crafted in New York City
+typography_spectrum: 0.3993368209339678
+color:
+  saturation: 0
+  brandStrength: 0.05559347453527153
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#050505'
+    - '#2E2E2E'
+    - '#808080'
+    - '#C6C6C6'
+  rhythmicContrast: 0
+layout_spectrum: 0.9841076398734003
+name: '212'
+navigation:
+  - name: the blank canvas
+    id: d2a1f3d3-6b06-4573-8e93-27884c36a318
+    type: content
 collections:
   - index:
       path: /
@@ -11,22 +28,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0
-  brandStrength: 0.05559347453527153
-  lightness: 0
-  brandColors:
-    - '#FFFFFF'
-    - '#050505'
-    - '#2E2E2E'
-    - '#808080'
-    - '#C6C6C6'
-  rhythmicContrast: 0
-typography_spectrum: 0.3993368209339678
+title: '212'
 description: 212withlove
-navigation:
-  - name: the blank canvas
-    id: d2a1f3d3-6b06-4573-8e93-27884c36a318
-    type: content
-layout_spectrum: 0.9841076398734003
-name: '212'
