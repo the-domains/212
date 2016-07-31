@@ -5,23 +5,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.6810068944469094
+  saturation: 0
   brandStrength: 0.05559347453527153
-  lightness: 0.3573452914133668
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#050505'
     - '#2E2E2E'
     - '#808080'
     - '#C6C6C6'
-  rhythmicContrast: 0.5239093934651464
+  rhythmicContrast: 1
 typography_spectrum: 0.3993368209339678
 description: 212withlove
 navigation:
