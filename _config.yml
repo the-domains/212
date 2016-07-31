@@ -1,0 +1,14 @@
+layout_spectrum: 0.9841076398734003
+typography_spectrum: 0.39933682093396783
+color:
+  brandStrength: 0.055593474535271525
+  lightness: 0.3573452914133668
+  saturation: 0.6810068944469094
+  rhythmicContrast: 0.5239093934651464
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: '212'
